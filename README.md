@@ -1,14 +1,10 @@
 # To Do List  
   
 <p align="center">
-  <img width="300" height="300" src="https://raw.githubusercontent.com/mustafaynk/todolist/master/appgallery/logo.png">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/AppazovYerzhan/ToDoListApp/master/appgallery/logo.png">
 </p>
 
 To Do List application developed for task management.
-
-<a href="https://play.google.com/store/apps/details?id=com.ynk.todolist" target="_blank">
-	<img width="280" height="160" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuYjwrkyCZGRYvNRwGIz44WsB8Tzevabc22W4Oc6f-UUCjqd6_&usqp=CAU">
-</a>	
 
 ### Features
 ---
@@ -39,7 +35,7 @@ Download project into Github.(or git clone with VCS into Android Studio)
 ### Demo
 ---
 <p align="center">
-  <img width="50%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/preview.gif?raw=true">
+  <img width="50%" src="https://github.com/AppazovYerzhan/ToDoListApp/blob/master/appgallery/preview.gif?raw=true">
 </p>
 
 
@@ -47,7 +43,7 @@ Download project into Github.(or git clone with VCS into Android Studio)
 ---
 
 <p align="center">
-  <img width="40%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/dashboard.png?raw=true">
+  <img width="40%" src="https://github.com/AppazovYerzhan/ToDoListApp/blob/master/appgallery/dashboard.jpg?raw=true">
 </p>
 <p align="center">
 	<b>
@@ -56,7 +52,7 @@ Download project into Github.(or git clone with VCS into Android Studio)
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/todolistcreate.png?raw=true">
+  <img width="40%" src="https://github.com/AppazovYerzhan/ToDoListApp/blob/master/appgallery/todolistcreate.jpg?raw=true">
 </p>
 <p align="center">
 	<b>
@@ -66,7 +62,7 @@ Download project into Github.(or git clone with VCS into Android Studio)
 	
 
 <p align="center">
-  <img width="40%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/todolistmultiselection.png?raw=true">
+  <img width="40%" src="https://github.com/AppazovYerzhan/ToDoListApp/blob/master/appgallery/todolistmultiselection.jpg?raw=true">
 </p>
 <p align="center">
 	<b>
@@ -76,7 +72,7 @@ Download project into Github.(or git clone with VCS into Android Studio)
 	
 
 <p align="center">
-  <img width="40%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/todolistactions.png?raw=true">
+  <img width="40%" src="https://github.com/AppazovYerzhan/ToDoListApp/blob/master/appgallery/todolistactions.jpg?raw=true">
 </p>
 <p align="center">
 	<b>
@@ -85,7 +81,7 @@ Download project into Github.(or git clone with VCS into Android Studio)
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/todolistitemcreate.png?raw=true">
+  <img width="40%" src="https://github.com/AppazovYerzhan/ToDoListApp/blob/master/appgallery/todolistitemcreate.jpg?raw=true">
 </p>
 <p align="center">
 	<b>
@@ -95,7 +91,7 @@ Download project into Github.(or git clone with VCS into Android Studio)
 	
 
 <p align="center">
-  <img width="40%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/todolistitemdetail.png?raw=true">
+  <img width="40%" src="https://github.com/AppazovYerzhan/todolist/blob/master/appgallery/todolistitemdetail.jpg?raw=true">
 </p>
 <p align="center">
 	<b>
@@ -105,7 +101,7 @@ Download project into Github.(or git clone with VCS into Android Studio)
 	
 
 <p align="center">
-  <img width="40%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/todolistitemfilter.png?raw=true">
+  <img width="40%" src="https://github.com/AppazovYerzhan/ToDoListApp/blob/master/appgallery/todolistitemfilter.jpg?raw=true">
 </p>
 <p align="center">
 	<b>
@@ -116,7 +112,7 @@ Download project into Github.(or git clone with VCS into Android Studio)
 
 ---
 
-###### [Application APK](https://github.com/mustafaynk/todolist/blob/master/appgallery/ToDoList.apk?raw=true)
+###### [Application APK](https://github.com/AppazovYerzhan/ToDoListApp/blob/master/appgallery/ToDoList.apk?raw=true)
 
 ---
 ### End
