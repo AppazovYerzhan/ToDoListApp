@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/parentView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/layoutChecked"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:visibility="gone">
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/llTodoList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical"
+        android:background="@drawable/rectangle_rounded_main_dark_grey">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_margin="4dp"
+                android:id="@+id/tvListName"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingTop="4dp"
+                android:paddingBottom="4dp"
+                android:paddingLeft="12dp"
+                android:paddingRight="4dp"
+                android:gravity="center_vertical"
+                android:background="@drawable/rectangle_rounded_yellow"
+                android:text="List Name"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+
+                android:textColor="@color/white" />
+            <ImageView
+                android:id="@+id/ibMore"
+                android:layout_margin="4dp"
+                android:background="@drawable/round_tick_button"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:tint="@color/grey_90"
+                app:srcCompat="@drawable/ic_more_vert" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_weight="1"
+                android:id="@+id/tvListAddDate"
+                android:background="@drawable/rectangle_rounded_for_text_light_grey"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_margin="4dp"
+                android:gravity="center_vertical"
+                android:text="Date"
+                android:paddingLeft="8dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                />
+
+            <ImageView
+                android:id="@+id/ivCircleView"
+                android:layout_margin="4dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+
+                android:background="@drawable/round_tick_button"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>
